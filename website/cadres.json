@@ -1,0 +1,100 @@
+[
+  {
+    "start": 16,
+    "end": 113,
+    "cadre_bn": "প্রশাসন",
+    "cadre_en": "Administration",
+    "icon": "🏛️"
+  },
+  {
+    "start": 116,
+    "end": 118,
+    "cadre_bn": "খাদ্য",
+    "cadre_en": "Food",
+    "icon": "🌾"
+  },
+  {
+    "start": 120,
+    "end": 123,
+    "cadre_bn": "পররাষ্ট্র",
+    "cadre_en": "Foreign Affairs",
+    "icon": "🌍"
+  },
+  {
+    "start": 126,
+    "end": 128,
+    "cadre_bn": "কর",
+    "cadre_en": "Tax/Revenue",
+    "icon": "💰"
+  },
+  {
+    "start": 130,
+    "end": 133,
+    "cadre_bn": "ডাক",
+    "cadre_en": "Postal",
+    "icon": "📮"
+  },
+  {
+    "start": 136,
+    "end": 140,
+    "cadre_bn": "শুল্ক ও আবগারি",
+    "cadre_en": "Customs & Excise",
+    "icon": "🛃"
+  },
+  {
+    "start": 142,
+    "end": 150,
+    "cadre_bn": "ইকোনমিক",
+    "cadre_en": "Economic",
+    "icon": "📊"
+  },
+  {
+    "start": 152,
+    "end": 157,
+    "cadre_bn": "বিচার",
+    "cadre_en": "Judicial",
+    "icon": "⚖️"
+  },
+  {
+    "start": 160,
+    "end": 162,
+    "cadre_bn": "রেলওয়ে",
+    "cadre_en": "Railway",
+    "icon": "🚂"
+  },
+  {
+    "start": 164,
+    "end": 195,
+    "cadre_bn": "কৃষি",
+    "cadre_en": "Agriculture",
+    "icon": "🌿"
+  },
+  {
+    "start": 198,
+    "end": 208,
+    "cadre_bn": "মৎস্য",
+    "cadre_en": "Fisheries",
+    "icon": "🐟"
+  },
+  {
+    "start": 210,
+    "end": 253,
+    "cadre_bn": "স্বাস্থ্য",
+    "cadre_en": "Health",
+    "icon": "🏥"
+  },
+  {
+    "start": 256,
+    "end": 262,
+    "cadre_bn": "স্বাস্থ্য (ডেন্টাল)",
+    "cadre_en": "Health (Dental)",
+    "icon": "🦷"
+  },
+  {
+    "start": 264,
+    "end": 275,
+    "cadre_bn": "সাধারণ শিক্ষা",
+    "cadre_en": "General Education",
+    "icon": "📚"
+  }
+]
